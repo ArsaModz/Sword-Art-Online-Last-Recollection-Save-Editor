@@ -1,4 +1,4 @@
-# SAO: Last Recollection Save Editor
+# SAO: Last Recollection Save Editor (PS4/PC)
 
 A save editor for *Sword Art Online: Last Recollection*, developed with Python and PyQt6. Supports precise modification of inventory, per-item stats, skill assignments, and core player progression values directly within GVAS-format save files.
 
