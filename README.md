@@ -46,4 +46,4 @@ Rename save files between platforms without modifying any save data:
 ---
 
 ## 🙏 Credits
-* **a_busy_man** — Cheat table that helped map out the save file structure. ([fearlessrevolution.com/viewtopic.php?t=25913](https://fearlessrevolution.com/viewtopic.php?t=25913))
+* **[a_busy_man](https://fearlessrevolution.com/viewtopic.php?t=25913)** — Cheat table that helped map out the save file structure.
